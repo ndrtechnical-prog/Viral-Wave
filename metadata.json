@@ -1,0 +1,7 @@
+{
+  "name": "Social Assistant",
+  "description": "An AI assistant to help new creators with video uploading methods, viral tips, and hashtags for popular social media platforms. Get expert guidance in a clean, modern interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
